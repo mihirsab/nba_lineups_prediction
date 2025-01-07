@@ -104,30 +104,6 @@ Proposed a cloud-based training pipeline for real-time lineup optimization. The 
 
 ---
 
-## **How to Run the Code**
-1. Clone the repository:
-   ```bash
-   git clone <repo-url>
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run data preprocessing:
-   ```bash
-   python preprocess_data.py
-   ```
-4. Train models:
-   ```bash
-   python train_models.py
-   ```
-5. Evaluate results:
-   ```bash
-   python evaluate_models.py
-   ```
-
----
-
 ## **References**
 - [NBA.com](https://www.nba.com/)
 - Advanced data scraping libraries and open-source APIs for NBA stats.
